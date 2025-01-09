@@ -8,7 +8,7 @@
         Title="Test MySQL" 
         Height="450" 
         Width="800">
-    <Grid>
+    <DataGrid>
 
-    </Grid>
+    </DataGrid>
 </Window>
